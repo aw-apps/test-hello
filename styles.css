@@ -155,6 +155,12 @@ button:focus-visible {
   opacity: 0.95;
 }
 
+.clock {
+  min-height: 1.5em;
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
 .footer {
   margin-top: 18px;
   font-size: 14px;
